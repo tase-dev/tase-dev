@@ -1,4 +1,5 @@
 # 👋 Hey, I'm Craftefix!
+Im a german student, who loves tech, Minecraft, Linux(if it works) and Java
 
 ## 🧑‍💻 About Me
 - 💻 Currently learning **Java**
@@ -7,15 +8,15 @@
 - 🖨️ Passionate about **3D printing** and making cool stuff
 
 ## 🔧 What I'm Up To
-🚀 Exploring the depths of **Minecraft plugin development**  
-⚙️ Experimenting with **Paper & Velocity**  
-🎨 Bringing ideas to life with **3D printing  ~~& design~~**  
+- 🚀 Exploring the depths of **Minecraft plugin development**  
+- ⚙️ Experimenting with **Paper & Velocity**  
+- 🎨 Bringing ideas to life with **3D printing  ~~& design~~**  
 
 
 ## 📬 Connect With Me
-📧 Email: [hello@craftefix.dev](#)  
-🌐 Website will be at: [craftefix.dev](https://github.craftefix.dev/)  
-🔗 Discord: `craftefix`  
+- 📧 Email: [hello@craftefix.dev](#)  
+- 🌐 Website will be at: [craftefix.dev](https://github.craftefix.dev/)  
+- 🔗 Discord: `craftefix`  
 
 
 ## 📊 Tech Stack
