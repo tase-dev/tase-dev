@@ -4,8 +4,8 @@ Im a german student, who loves tech, Minecraft, Linux(if it works) and Java
 ## 🧑‍💻 About Me
 - 💻 Currently learning **Java**
 - 🌍 Running my own Minecraft network
-- 🛠️ Developing my own version of **[EssentialsX](https://github.com/EssentialsX/Essentials)**
-- 🖨️ Passionate about **3D printing** and making cool stuff
+- 🛠️ Developing my own version of **[EssentialsX](https://github.com/EssentialsX/Essentials)** about 5-10% done
+- 🖨️ I love **3D printing** and making cool stuff
 
 ## 🔧 What I'm Up To
 - 🚀 Exploring the depths of **Minecraft plugin development**  
