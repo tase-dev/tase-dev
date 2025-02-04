@@ -8,7 +8,7 @@
 ## 🔧 What I'm Up To
 🚀 Exploring the depths of **Minecraft plugin development**  
 ⚙️ Experimenting with **Paper & Velocity**  
-🎨 Bringing ideas to life with **3D printing & design**  
+🎨 Bringing ideas to life with **3D printing  ~~& design~~**  
 
 ## 📊 Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
