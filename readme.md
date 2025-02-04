@@ -21,7 +21,7 @@ Im a german student, who loves tech, Minecraft, Linux(if it works) and Java
 
 ## 📊 Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Paper](https://img.shields.io/badge/Paper-1E90FF?style=for-the-badge&logo=minecraft&logoColor=white)
+![Paper](https://img.shields.io/badge/PaperMC-1E90FF?style=for-the-badge&logo=minecraft&logoColor=white)
 ![Velocity](https://img.shields.io/badge/Velocity-FF0000?style=for-the-badge&logo=minecraft&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
