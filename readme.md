@@ -1,7 +1,8 @@
-# 👋 Hey there, I'm Craftefix!
+# 👋 Hey, I'm Craftefix!
 
 ## 🧑‍💻 About Me
 - 💻 Currently learning **Java**
+- 🌍 Running my own Minecraft network
 - 🛠️ Developing my own version of **[EssentialsX](https://github.com/EssentialsX/Essentials)**
 - 🖨️ Passionate about **3D printing** and making cool stuff
 
@@ -9,6 +10,13 @@
 🚀 Exploring the depths of **Minecraft plugin development**  
 ⚙️ Experimenting with **Paper & Velocity**  
 🎨 Bringing ideas to life with **3D printing  ~~& design~~**  
+
+
+## 📬 Connect With Me
+📧 Email: [hello@craftefix.dev](#)  
+🌐 Website will be at: [craftefix.dev](github.craftefix.dev)  
+🔗 Discord: `craftefix`  
+
 
 ## 📊 Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -23,10 +31,5 @@
 ![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
 
 
-## 📬 Connect With Me
-📧 Email: [hello@craftefix.dev](#)  
-🌐 Website will be at: [craftefix.dev](github.craftefix.dev)  
-🔗 Discord: `craftefix`
-
 ---
-✨ ** ✨
+✨ *why* ✨
