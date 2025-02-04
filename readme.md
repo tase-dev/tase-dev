@@ -14,7 +14,7 @@
 
 ## 📬 Connect With Me
 📧 Email: [hello@craftefix.dev](#)  
-🌐 Website will be at: [craftefix.dev](github.craftefix.dev)  
+🌐 Website will be at: [craftefix.dev](https://github.craftefix.dev/)  
 🔗 Discord: `craftefix`  
 
 
