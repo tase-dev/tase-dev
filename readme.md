@@ -14,7 +14,7 @@ Im a german student, who loves tech, Minecraft, Linux(if it works) and Java
 
 
 ## 📬 Connect With Me
-- 📧 Email: [hello@craftefix.dev](#)  
+- 📧 Email: [hello[at]craftefix.dev](#)  
 - 🌐 Website will be at: [craftefix.dev](https://github.craftefix.dev/)  
 - 🔗 Discord: `craftefix`  
 
@@ -31,11 +31,5 @@ Im a german student, who loves tech, Minecraft, Linux(if it works) and Java
 ![Ubuntu Server](https://img.shields.io/badge/Ubuntu%20Server-333333?style=for-the-badge&logo=ubuntu&logoColor=E95420)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)  
 ![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
-![Fleet](https://img.shields.io/badge/Fleet-000000?style=for-the-badge&logo=fleet&logoColor=white)
 ![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
 ![GitHub Student](https://img.shields.io/badge/GitHub%20Student-121013?style=for-the-badge&logo=github&logoColor=white)
-
-
-
----
-✨ *why* ✨
