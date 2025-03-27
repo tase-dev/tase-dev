@@ -7,7 +7,7 @@ Im a german student, who loves tech, Minecraft, Linux(if it works) and Java
 - 🛠️ Developing my own version of Utils PaperMC-plugin about 15-10% done: [CraftUtils](https://github.com/Craftefix/CraftUtils/)
 - 🖨️ I love **3D printing** and making cool stuff
 
-## 🔧 What I'm Up To
+## 🔧 What im doing
 - 🚀 Exploring the depths of **Minecraft plugin development**  
 - ⚙️ Experimenting with **Paper & Velocity**  
 - 🎨 Bringing ideas to life with **3D printing  ~~& design~~**  
