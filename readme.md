@@ -1,20 +1,20 @@
-# 👋 Hey, I'm Craftefix!
+#  Hey, I'm Craftefix!
 Im a german student, who loves tech, Minecraft, Linux(if it works) and Java
 
-## 🧑‍💻 About Me
-- 💻 Currently learning **Java**
-- 🌍 Running my own Minecraft network
-- 🛠️ Developing my own version of Utils PaperMC-plugin about 15-10% done: [CraftUtils](https://github.com/Craftefix/CraftUtils/)
-- 🖨️ I love **3D printing** and making cool stuff
+##  About Me
+-  Currently learning **Java**
+-  Running my own Minecraft network
+-  Developing my own version of Utils PaperMC-plugin about 15-10% done: [CraftUtils](https://github.com/Craftefix/CraftUtils/)
+-  I love **3D printing** and making cool stuff
 
 
-## 📬 Contact data
-- 📧 Email: [hello[at]craftefix.dev](#)  
-- 🌐 Website will be at: [craftefix.dev](https://github.craftefix.dev/)  
-- 🔗 Discord: `craftefix`  
+##  Contact data
+-  Email: [hello[at]craftefix.dev](#)  
+-  Website will be at: [craftefix.dev](https://github.craftefix.dev/)  
+-  Discord: `craftefix`  
 
 
-## 📊 Tech Stack
+##  Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Paper](https://img.shields.io/badge/PaperMC-1E90FF?style=for-the-badge&logo=minecraft&logoColor=white)
 ![Velocity](https://img.shields.io/badge/Velocity-FF0000?style=for-the-badge&logo=minecraft&logoColor=white)
