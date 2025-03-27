@@ -1,5 +1,5 @@
 #  Hey, I'm Craftefix!
-Im a german student, who loves tech, Minecraft, Linux(if it works) and Java
+Im a german student, who loves tech, Minecraft, Linux (if it works) and Java
 
 ##  About Me
 -  Currently learning **Java**
