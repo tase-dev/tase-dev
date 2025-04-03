@@ -6,7 +6,6 @@ Im a german student, who loves Java
 
 ##  Contact data
 -  Email: [stop2[at]craftefix.dev](#)  
--  Website will be at: [craftefix.dev](https://github.craftefix.dev/)  
 -  Discord: `tase__.rt`  
 
 
