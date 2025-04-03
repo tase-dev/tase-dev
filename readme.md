@@ -1,4 +1,4 @@
-#  Hey, I'm Stop2!
+#  Hey, I'm Tase!
 Im a german student, who loves Java
 
 ##  About Me
