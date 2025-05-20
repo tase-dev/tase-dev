@@ -22,7 +22,6 @@ Im a german student, who loves tech, Minecraft, Linux (if it works) and Java
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white)  
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![KDE Neon](https://img.shields.io/badge/KDE%20Neon-1ABC9C?style=for-the-badge&logo=KDE&logoColor=white)
 ![Ubuntu Server](https://img.shields.io/badge/Ubuntu%20Server-333333?style=for-the-badge&logo=ubuntu&logoColor=E95420)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)  
 ![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
