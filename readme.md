@@ -1,5 +1,5 @@
 #  Hey, I'm Craftefix!
-Im a german student, who loves tech, Minecraft, Linux (if it works) and Java
+I'm a german student, who loves tech, Minecraft, Linux (if it works) and Java
 
 ##  About Me
 -  Currently learning **Java**
@@ -14,7 +14,7 @@ Im a german student, who loves tech, Minecraft, Linux (if it works) and Java
 -  Discord: `craftefix`  
 
 
-##  Tech Stack
+##  Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Paper](https://img.shields.io/badge/PaperMC-1E90FF?style=for-the-badge&logo=minecraft&logoColor=white)
 ![Velocity](https://img.shields.io/badge/Velocity-FF0000?style=for-the-badge&logo=minecraft&logoColor=white)
@@ -27,3 +27,8 @@ Im a german student, who loves tech, Minecraft, Linux (if it works) and Java
 ![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
 ![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
 ![GitHub Student](https://img.shields.io/badge/GitHub%20Student-121013?style=for-the-badge&logo=github&logoColor=white)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Docusaurus](https://img.shields.io/badge/Docusaurus-2e8555?style=for-the-badge&logo=docusaurus&logoColor=white)](https://docusaurus.io/)
+[![Dockge](https://img.shields.io/badge/Dockge-000000?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/louislam/dockge)
+[![Twingate](https://img.shields.io/badge/Twingate-5A3DF4?style=for-the-badge&logo=twingate&logoColor=white)](https://www.twingate.com/)
