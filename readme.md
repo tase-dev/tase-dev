@@ -2,15 +2,16 @@
 I'm a german student, who loves tech, Minecraft, Linux (if it works) and Java
 
 ##  About Me
--  Currently learning **Java**
+-  Currently learning **Java** and *TypeScript*
 -  Running my own Minecraft network
--  Developing my own version of Utils PaperMC-plugin about 15-10% done: [CraftUtils](https://github.com/Craftefix/CraftUtils/)
+- Developing a Host
+-  Developing my own version of a utils plugin for PaperMC about 20-15% done: [CraftUtils](https://github.com/Craftefix/CraftUtils/)
 -  I love **3D printing** and making cool stuff
 
 
 ##  Contact data
 -  Email: [hello[at]craftefix.dev](#)  
--  Website will be at: [craftefix.dev](https://github.craftefix.dev/)  
+-  Website will be at: [craftefix.dev](https://github.craftefix.dev/)(If I find the time to make one)  
 -  Discord: `craftefix`  
 
 
