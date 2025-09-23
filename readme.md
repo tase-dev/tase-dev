@@ -16,28 +16,28 @@ I'm a german student, who loves tech, Minecraft, Linux (if it works) and Java
 
 
 ##  Stack
-![Java](https://badgen.net/badge/Java/ED8B00?icon=java)
-![PaperMC](https://badgen.net/badge/PaperMC/1E90FF?icon=minecraft)
-![Velocity](https://badgen.net/badge/Velocity/FF0000?icon=minecraft)
-![Git](https://badgen.net/badge/Git/F05032?icon=git)
-![Docker](https://badgen.net/badge/Docker/2496ED?icon=docker)
-![Portainer](https://badgen.net/badge/Portainer/13BEF9?icon=docker)
-![Ubuntu](https://badgen.net/badge/Ubuntu/E95420?icon=ubuntu)
-![Ubuntu Server](https://badgen.net/badge/Ubuntu%20Server/333333?icon=ubuntu)
-![IntelliJ IDEA](https://badgen.net/badge/IntelliJ%20IDEA/000000?icon=intellijidea)
-![JetBrains](https://badgen.net/badge/JetBrains/000000?icon=jetbrains)
-![Minecraft](https://badgen.net/badge/Minecraft/62B47A?icon=minecraft)
-![GitHub Student](https://badgen.net/badge/GitHub%20Student/121013?icon=github)
-![JavaScript](https://badgen.net/badge/JavaScript/F7DF1E?icon=javascript)
-![TypeScript](https://badgen.net/badge/TypeScript/3178C6?icon=typescript)
-![Docusaurus](https://badgen.net/badge/Docusaurus/2e8555?icon=npm)
-![Dockge](https://badgen.net/badge/Dockge/000000?icon=docker)
-![Twingate](https://badgen.net/badge/Twingate/5A3DF4?icon=lock)
-![Authentik](https://badgen.net/badge/Authentik/2E3440?icon=https://raw.githubusercontent.com/goauthentik/authentik/main/web/icons/icon.svg)
-![Pangolin](https://badgen.net/badge/Pangolin/444444?icon=https://raw.githubusercontent.com/fossorial/pangolin/main/docs/assets/logo.svg)
-![Traefik](https://badgen.net/badge/Traefik/24A1C1?icon=traefik)
-![PortNote](https://badgen.net/badge/PortNote/009688?icon=note)
-![Pelican](https://badgen.net/badge/Pelican/008080?icon=https://www.svgrepo.com/download/191113/pelican.svg)
-![Pelican Wings](https://badgen.net/badge/Pelican%20Wings/0066CC?icon=https://freesvg.org/img/pterodactyl.png)
-![Google Cloud](https://badgen.net/badge/GCP/4285F4?icon=gcp)
-![DigitalOcean](https://badgen.net/badge/DigitalOcean/0080FF?icon=digitalocean)
+![Java](https://badges.pages.dev/Java-yellowgreen?logo=openjdk)
+![PaperMC](https://badges.pages.dev/PaperMC-blue?logo=paper)
+![Velocity](https://badges.pages.dev/Velocity-red?logo=velocity)
+![Git](https://badges.pages.dev/Git-orange?logo=git)
+![Docker](https://badgen.net/badge/Docker/2496ED?icon=docker)  <!-- docker is in Simple Icons, but for example -->
+![Portainer](https://badges.pages.dev/Portainer-skyblue?logo=portainer)
+![Ubuntu](https://badges.pages.dev/Ubuntu-orange?logo=ubuntu)
+![Ubuntu Server](https://badges.pages.dev/Ubuntu%20Server-darkgray?logo=ubuntu)
+![IntelliJ IDEA](https://badges.pages.dev/IntelliJ%20IDEA-black?logo=intellijidea)
+![JetBrains](https://badges.pages.dev/JetBrains-black?logo=jetbrains)
+![Minecraft](https://badges.pages.dev/Minecraft-green?logo=minecraft)
+![GitHub Student](https://badges.pages.dev/GitHub%20Student-black?logo=github)
+![JavaScript](https://badges.pages.dev/JavaScript-yellow?logo=javascript)
+![TypeScript](https://badges.pages.dev/TypeScript-blue?logo=typescript)
+![Docusaurus](https://badges.pages.dev/Docusaurus-darkgreen?logo=docusaurus)
+![Dockge](https://badges.pages.dev/Dockge-black?logo=code)  <!-- placeholder logo -->
+![Twingate](https://badges.pages.dev/Twingate-indigo?logo=lock) <!-- placeholder -->
+![Authentik](https://badges.pages.dev/Authentik-darkgray?logo=authentik)
+![Pangolin](https://badges.pages.dev/Pangolin-darkgray?logo=fossorial) <!-- using Fossorial logo -->
+![Traefik](https://badges.pages.dev/Traefik-cyan?logo=traefik)
+![PortNote](https://badges.pages.dev/PortNote-teal?logo=note) <!-- note icon placeholder -->
+![Pelican](https://badges.pages.dev/Pelican.dev-teal?logo=pelican)
+![Pelican Wings](https://badges.pages.dev/Pelican%20Wings-deepblue) <!-- no logo -->
+![Google Cloud](https://badges.pages.dev/GCP-blue?logo=googlecloud)
+![DigitalOcean](https://badges.pages.dev/DigitalOcean-blue?logo=digitalocean)
